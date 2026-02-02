@@ -15,7 +15,7 @@ for plants.
 ## Tech Stack
 - Arduino / ESP32
 - Sensors (temperature, soil moisture)
-- Python backend
+- Backend
 - Web dashboard
 
 ## Repository Structure
