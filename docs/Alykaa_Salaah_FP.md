@@ -74,7 +74,7 @@ Project is split into **two 5-week sprints**
 ---
 
 # First attempt at Breadboard
-![bg right:40%](images/Failed_attempt.pdf)
+![bg right:40%]([images/Failed_attempt.pdf](https://github.com/Salaaha2/iot-smart-plant-monitor/blob/main/docs/images/Failed%20attempt.pdf))
 
 ---
 
@@ -88,13 +88,13 @@ Example:
 - Temperature: 21.4°C  
 - Humidity: 43%  
 
-Picture 
+![bg right:40%](https://github.com/Salaaha2/iot-smart-plant-monitor/blob/main/docs/images/Sprint%201%20results.png)
 
 ---
 
 # Sprint 1 board result
 
-picture
+![bg right:40%](https://github.com/Salaaha2/iot-smart-plant-monitor/blob/main/docs/images/Breadboard%20Currently.pdf)
 
 ---
 
@@ -121,7 +121,7 @@ picture
 
 ---
 
-# Learning with AI
+# Learned with AI
 
 - Helped debug Arduino code  
 - Helped connect WiFi + server  
@@ -137,8 +137,9 @@ picture
 
 ---
 
-# Dashboard final picture
-picture
+# Dashboard visualzation picture
+
+![bg right:40%](https://github.com/Salaaha2/iot-smart-plant-monitor/blob/main/docs/images/The%20Setup.png)
 
 ---
 
@@ -156,11 +157,18 @@ picture
 ---
 
 # Dashboard Picture
-picture
+
+![bg right:40%](https://github.com/Salaaha2/iot-smart-plant-monitor/blob/main/docs/images/Dashboard%20results.png)
+
+---
+# Demo (live)
+
+- Video
+- <a href="[YouTube](https://youtu.be/wB_I8LaZoao )">Youtube</a>
 
 ---
 # Some Challenges
-picture of water pump
+![bg right:40%](https://github.com/Salaaha2/iot-smart-plant-monitor/blob/main/docs/images/Water%20system.pdf)
 
 ---
 # Some Challenges
