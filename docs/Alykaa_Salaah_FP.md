@@ -73,6 +73,11 @@ Project is split into **two 5-week sprints**
 
 ---
 
+# First attempt at Breadboard
+[Failed attempt.pdf](https://github.com/user-attachments/files/26907804/Failed.attempt.pdf)
+
+---
+
 # Sprint 1 Results
 
 - Live sensor data working  
