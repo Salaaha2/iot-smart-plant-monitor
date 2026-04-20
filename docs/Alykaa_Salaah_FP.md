@@ -74,7 +74,7 @@ Project is split into **two 5-week sprints**
 ---
 
 # First attempt at Breadboard
-Picture
+![bg right:40%](images/Failed_attempt.pdf)
 
 ---
 
