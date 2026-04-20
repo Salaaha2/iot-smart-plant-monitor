@@ -74,7 +74,7 @@ Project is split into **two 5-week sprints**
 ---
 
 # First attempt at Breadboard
-[Failed attempt.pdf](https://github.com/user-attachments/files/26907804/Failed.attempt.pdf)
+Picture
 
 ---
 
@@ -82,13 +82,63 @@ Project is split into **two 5-week sprints**
 
 - Live sensor data working  
 - ESP32 successfully sending data  
-- Python server receiving data  
-- Dashboard showing real-time values  
 
 Example:
 - Soil Moisture: 2%  
 - Temperature: 21.4°C  
 - Humidity: 43%  
+
+Picture 
+
+---
+
+# Sprint 1 board result
+
+picture
+
+---
+
+# Data Visualization
+
+- Added live graphs  
+- Tracks changes over time  
+- Helps understand plant conditions  
+
+---
+
+# Sprint 2 – Intelligence & Features
+
+**Goals:**
+- Connect ESP32 to WiFi
+- Python server receiving data  
+- Send data to server  
+- Store historical data  
+- Improve dashboard UI  
+- Add watering recommendations  
+- Add alerts/notifications
+- Dashboard showing real-time values  
+- Test and polish system  
+
+---
+
+# Learning with AI
+
+- Helped debug Arduino code  
+- Helped connect WiFi + server  
+- Helped build dashboard  
+- Helped understand full system  
+
+---
+
+# Learning with AI:
+**Topic 1:** IoT Sensor Communication (HTTP vs MQTT)
+
+**Topic 2:** SQLite for IoT Data
+
+---
+
+# Dashboard final picture
+picture
 
 ---
 
@@ -105,36 +155,14 @@ Example:
 
 ---
 
-# Data Visualization
-
-- Added live graphs  
-- Tracks changes over time  
-- Helps understand plant conditions  
+# Dashboard Picture
+picture
 
 ---
-
-# Sprint 2 – Intelligence & Features
-
-**Goals:**
-- Connect ESP32 to WiFi 
-- Send data to server  
-- Store historical data  
-- Improve dashboard UI  
-- Add watering recommendations  
-- Add alerts/notifications  
-- Test and polish system  
+# Some Challenges
+picture of water pump
 
 ---
-
-# Learning with AI
-
-- Helped debug Arduino code  
-- Helped connect WiFi + server  
-- Helped build dashboard  
-- Helped understand full system  
-
----
-
 # Some Challenges
 
 - No Automatic Pump
